@@ -1,0 +1,9 @@
+{
+  "smartcat.info.simple-text": "simple text 123",
+  "smartcat.info.success-sent-message": "Your email to {{name}} has been successfully sent 123",
+  "smartcat.info.template-text": "{{firstName}} - {{lastName}} 123",
+  "smartcat.info.new_key_with_newline": "line one\n line two 123",
+  "smartcat.info.another_key_from_file": "another key from this file 123",
+  "smartcat.info.yet_another_key_from_file": "yet another key from this file 123",
+  "smartcat.info.yet_yet_another_key_from_file": "yet yet another key from this file 123"
+}
